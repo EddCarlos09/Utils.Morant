@@ -2,6 +2,13 @@
 {
     public class UriResponse
     {
+        public UriResponse()
+        {
+            Url = string.Empty;
+            Domain = string.Empty;
+            Alias = string.Empty;
+            Short_url = string.Empty;
+        }
         public int Id { get; set; }
         public string Url { get; set; }
         public string Domain { get; set; }
