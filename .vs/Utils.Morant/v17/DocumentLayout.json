@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{87D29DB8-962A-4AF3-B71E-0214C6458575}|Utils.Morant\\Utils.Morant.csproj|solutionrelative:utils.morant\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D29DB8-962A-4AF3-B71E-0214C6458575}|Utils.Morant\\Utils.Morant.csproj|d:\\morant\\utils.morant\\utils.morant\\models\\tiny\\shorturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D29DB8-962A-4AF3-B71E-0214C6458575}|Utils.Morant\\Utils.Morant.csproj|solutionrelative:utils.morant\\models\\tiny\\shorturi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87D29DB8-962A-4AF3-B71E-0214C6458575}|Utils.Morant\\Utils.Morant.csproj|d:\\morant\\utils.morant\\utils.morant\\viewmodels\\uriresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D29DB8-962A-4AF3-B71E-0214C6458575}|Utils.Morant\\Utils.Morant.csproj|solutionrelative:utils.morant\\viewmodels\\uriresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "Utils.Morant\\Controllers\\QRCodeController.cs",
               "ToolTip": "D:\\Morant\\Utils.Morant\\Utils.Morant\\Controllers\\QRCodeController.cs",
               "RelativeToolTip": "Utils.Morant\\Controllers\\QRCodeController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAAAPAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-12T03:20:46.947Z",
               "EditorCaption": ""
@@ -44,19 +40,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShortUri.cs",
-              "DocumentMoniker": "D:\\Morant\\Utils.Morant\\Utils.Morant\\Models\\Tiny\\ShortUri.cs",
-              "RelativeDocumentMoniker": "Utils.Morant\\Models\\Tiny\\ShortUri.cs",
-              "ToolTip": "D:\\Morant\\Utils.Morant\\Utils.Morant\\Models\\Tiny\\ShortUri.cs",
-              "RelativeToolTip": "Utils.Morant\\Models\\Tiny\\ShortUri.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T03:07:12.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UriResponse.cs",
               "DocumentMoniker": "D:\\Morant\\Utils.Morant\\Utils.Morant\\ViewModels\\UriResponse.cs",
               "RelativeDocumentMoniker": "Utils.Morant\\ViewModels\\UriResponse.cs",
@@ -69,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UriRequest.cs",
               "DocumentMoniker": "D:\\Morant\\Utils.Morant\\Utils.Morant\\ViewModels\\UriRequest.cs",
               "RelativeDocumentMoniker": "Utils.Morant\\ViewModels\\UriRequest.cs",

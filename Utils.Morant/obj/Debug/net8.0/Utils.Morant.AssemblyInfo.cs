@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Utils.Morant")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+193b6b86b483e62b22ed1d24842b6cdca9bd616d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ef208be7d5dc83d1e989288964ceee2fb48c296")]
 [assembly: System.Reflection.AssemblyProductAttribute("Utils.Morant")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Utils.Morant")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
