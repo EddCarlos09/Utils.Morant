@@ -13,7 +13,7 @@ namespace Utils.Morant.Controllers
     public class QRCodeController : ControllerBase
     {
         [HttpPost]
-        public async Task<ActionResult<QRCodeViewModel>> PostQRCode(QRCodeViewModel data)
+        public ActionResult<QRCodeViewModel> PostQRCode(QRCodeViewModel data)
         {
             //var qrCodeGenerator = new QRCodeGenerator();
             //var qrCodeData = qrCodeGenerator.CreateQrCode(data.Url, QRCodeGenerator.ECCLevel.Q);
@@ -33,7 +33,7 @@ namespace Utils.Morant.Controllers
             string qrCodeImageAsBase64 = qrCode.GetGraphic(20, Color.Black, Color.White, true, imgType);
             //var htmlPictureTag = $"<img alt=\"Embedded QR Code\" src=\"data:image/{imgType.ToString().ToLower()};base64,{qrCodeImageAsBase64}\" />";
             data.QrCodeBase64 = qrCodeImageAsBase64;
-            return data;
+            return Ok(data);
         }
     }
 }
