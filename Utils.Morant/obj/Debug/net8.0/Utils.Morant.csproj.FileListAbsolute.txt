@@ -73,6 +73,7 @@ D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\NuGet.Packaging.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\NuGet.ProjectModel.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\NuGet.Protocol.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\QRCoder.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\Swashbuckle.AspNetCore.Annotations.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -273,6 +274,7 @@ D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.AssemblyInfo.c
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.csproj.CoreCompileInputs.cache
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.MvcApplicationPartsAssemblyInfo.cs
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.MvcApplicationPartsAssemblyInfo.cache
+D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.sourcelink.json
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\staticwebassets.build.json
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\staticwebassets.development.json
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\staticwebassets\msbuild.Utils.Morant.Microsoft.AspNetCore.StaticWebAssets.props
@@ -287,4 +289,3 @@ D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\refint\Utils.Morant.dll
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.pdb
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\Utils.Morant.genruntimeconfig.cache
 D:\Morant\Utils.Morant\Utils.Morant\obj\Debug\net8.0\ref\Utils.Morant.dll
-D:\Morant\Utils.Morant\Utils.Morant\bin\Debug\net8.0\QRCoder.dll
